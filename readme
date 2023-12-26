@@ -12,7 +12,7 @@ This is a simple Node.js project for managing a grocery inventory system. It use
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rishabhg-rgb/grocery-inventory.git
+   git clone https://github.com/rishabhg-rgb/grocery-inventory-api.git
 
 2. Navigate the project directory
     cd grocery-inventory
