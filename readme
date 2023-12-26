@@ -1,0 +1,26 @@
+# Grocery Inventory Management System
+
+This is a simple Node.js project for managing a grocery inventory system. It uses Express.js for the server, MongoDB for the database, and Bootstrap for the front end.
+
+## Prerequisites
+
+- Node.js installed on your machine. You can download it from [https://nodejs.org/](https://nodejs.org/).
+- MongoDB installed and running. You can download it from [https://www.mongodb.com/try/download/community](https://www.mongodb.com/try/download/community).
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/rishabhg-rgb/grocery-inventory.git
+
+2. Navigate the project directory
+    cd grocery-inventory
+
+3. install the packages 
+    npm install 
+
+4. add the .env file in the project directory attached in the mail
+
+5. start the server
+    npm start
